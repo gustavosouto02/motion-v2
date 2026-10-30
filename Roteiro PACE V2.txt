@@ -1,0 +1,238 @@
+PACE — DO CAOS À TORCIDA
+Roteiro V2 · imagem, locução e som · duração estimada 2:50 · 16:9, 1920×1080, 60 fps
+Versão para aprovação. Nada foi montado ainda.
+
+------------------------------------------------------------
+COMO LER
+------------------------------------------------------------
+LOCUÇÃO       voz Andrew Multilingual em português; "PACE" dito como em inglês ("peis").
+              /  = pausa curta     //  = pausa longa     MAIÚSCULA = ênfase
+              (entre parênteses) = intenção de leitura
+[REAL]        material real da pasta motion V2
+[GRÁFICO]     motion graphics no estilo do filme 1 (pontos, linhas, paleta PACE),
+              usado onde não há imagem real
+Paleta        design system PACE: fundo #0B0E0C, Lime = ação/seleção,
+              Teal = sua atlética, ● vermelho = ao vivo, ▲ âmbar = atenção, ✓ verde = sucesso.
+
+Tom de voz: gente que já viveu o evento por dentro. Calor, humor seco, frases curtas,
+português falado ("pra", "tá"), nunca jargão de software. A emoção cresce até o Capítulo 3
+e o PACE entra como alívio, não como propaganda.
+
+
+============================================================
+CAPÍTULO 1 · POR TRÁS DO EVENTO                    0:00 – 0:42
+============================================================
+
+0:00 – 0:16  [REAL] depoimentos-organizacao.mp4, inteiro, com áudio e legendas originais.
+  Imagem: o vídeo vertical entra centralizado num quadro arredondado, sobre o fundo escuro
+  do PACE. Nas laterais, nada (sem desfoque).
+  Destaques: as placas "VAI DAR CERTO! TÁ TUDO SOB CONTROLE! (não está)" e
+  "AINDA FALTA MAIS UMA ATLÉTICA" ganham um leve zoom; "então é um caos aqui" fecha o trecho.
+  Som: só o áudio original. Uma base eletrônica de tensão entra bem baixa nos últimos 4 s.
+
+0:16 – 0:25  [GRÁFICO] conversa genérica de grupo (sem marca de app real).
+  Uma mensagem. Depois outra. Depois várias, cada vez mais rápido, com contador de não lidas subindo:
+    "Qual é o horário do jogo?"
+    "Já saiu o resultado?"
+    "Mudaram a quadra?"
+    "Quem está com a súmula?"
+    "Esse placar está certo?"
+  A mesma pergunta reaparece duas vezes.
+  Texto pequeno no canto: "mensagens ilustrativas".
+
+  LOCUÇÃO (0:17)
+    Um resultado no papel. / Uma mudança no grupo. /
+    E a mesma pergunta… // DE NOVO.   (cansado, com um meio sorriso)
+
+0:25 – 0:35  [REAL] fotos dos mesários e das súmulas.
+  Aproximação lenta sobre: a mão escrevendo, as pranchetas empilhadas, o cronômetro,
+  e na súmula as linhas riscadas e corrigidas (seção "Advertências").
+  Nomes e dados pessoais desfocados. A súmula de 2009 recebe a tag "súmula ilustrativa".
+
+  LOCUÇÃO (0:26)
+    Cada informação precisa achar alguém. /
+    Alguém que confira. / Que responda. / E que avise o resto.
+
+0:35 – 0:41  [GRÁFICO + REAL] a montagem acelera: uma alteração de horário atravessa
+  três telas, um "▲ JOGO 214 · 19:00 → ?" pisca, a súmula continua "aguardando conferência".
+
+  LOCUÇÃO (0:35)
+    Enquanto isso, quem organiza acumula abas abertas. /
+    Quem joga espera uma confirmação. /
+    E quem torce… // atualiza o grupo pela décima vez.   (humor seco)
+
+0:41  Som: as notificações se sobrepõem por um instante. CORTE SECO.
+      Tela preta. 1 s de silêncio.
+
+  LOCUÇÃO (sobre o preto)
+    Tudo isso… pra fazer acontecer um evento desse tamanho.
+
+
+============================================================
+CAPÍTULO 2 · A DIMENSÃO DO CIA                     0:44 – 1:16
+============================================================
+
+  Imagem [GRÁFICO]: a montagem caótica dá lugar a quadros estáveis.
+  O contorno do Brasil em pontos, um ponto Lime pulsa em Uberaba ("UBERABA · MG", "JUNHO").
+  Os pontos formam o wordmark "CIA" — "Copa Inter Atléticas · EXP".
+
+  LOCUÇÃO (0:45)
+    Este é o CIA, a Copa Inter Atléticas. /
+    Todo junho, Uberaba vira a capital do esporte universitário: /
+    jogo de dia, / festa de noite, /
+    e uma operação que começa MESES antes do primeiro apito.
+
+  Imagem: sete palavras acendem uma a uma, ligadas por uma linha, como uma corrente.
+
+  LOCUÇÃO (0:57)   (staccato, uma palavra por batida da música)
+    Inscrições. Equipes. Modalidades. Quadras. Arbitragem. Horários. Resultados.
+
+  Imagem: um elo da corrente se move e derruba os seguintes, como dominó.
+
+  LOCUÇÃO (1:02)
+    Cada etapa depende da anterior. //
+    E qualquer mudança… derruba o dominó inteiro.
+
+  Imagem: os números entram um de cada vez, nunca mais de três na tela, sempre com a fonte:
+    16 → 160 atléticas            · 1ª → 11ª edição
+    6.352 atletas                 · 2026
+    ~20.000 pessoas por dia       · 2026
+    + R$ 30 milhões movimentados na cidade por edição · estimativa da organização
+  (Movimentação econômica na cidade, não receita do evento.)
+
+  LOCUÇÃO (1:07)
+    E o tamanho aparece fora das quadras também: /
+    hotel lotado, restaurante cheio, a cidade inteira em movimento. //
+    Meses de preparo… pra funcionar em poucos dias.
+
+  Som: base contida, pulso regular, espaço para ler os números.
+  No fim, a música recua. Ao longe, um canto de torcida.
+
+  LOCUÇÃO (1:14)   (quase uma pergunta pra si mesmo)
+    Mas… // o que faz tudo isso se mover?
+
+
+============================================================
+CAPÍTULO 3 · O QUE ISSO MOVE                       1:17 – 1:55
+============================================================
+Sem vídeos de torcida na pasta: o capítulo é todo [GRÁFICO], conduzido pelo som.
+
+  Imagem: um único ponto respira (cresce e diminui devagar). É alguém antes de entrar em quadra.
+  Outros pontos chegam e fecham uma roda (o grito de equipe). A roda vira o contorno de uma camisa.
+  Uma bandeira se abre em pontos Teal (sua atlética). A câmera não se move; os pontos se
+  multiplicam até virar uma arquibancada inteira, que balança no ritmo da bateria.
+
+  Som: a pergunta fica suspensa. Respiração. Tênis no piso. Uma batida de tambor.
+  O canto cresce e puxa a música.
+
+  LOCUÇÃO (1:19)   (mais perto, mais quente)
+    Pra quem tá aqui, a atlética tem rosto. / Tem amigo. / Tem história. //
+    Tem treino depois da aula. / Viagem de ônibus. / Expectativa. /
+    E uma camisa que ninguém quer deixar de honrar.
+
+  Imagem: a montagem acelera, a arquibancada pulsa, bandeiras sobem.
+
+  LOCUÇÃO (1:33)   (cada frase sobe um degrau)
+    É defender as SUAS cores. /
+    É perder a voz por alguém que você conhece. /
+    É viver um segundo… // que vai ser contado por anos.
+
+  O LANCE (1:42) [GRÁFICO]: quadra vista de cima. Último ataque, a bola (ponto Lime) sai da mão…
+  A imagem congela no ar. Silêncio total (0,8 s). A bola entra.
+  Som: impacto, apito, e a torcida explode. A trilha chega ao primeiro auge.
+  A arquibancada de pontos se acende inteira de uma vez.
+
+  Imagem: metade da tela quem joga, metade quem acompanha: arquibancada, beira da quadra,
+  e um celular na mão de quem não pôde ir.
+
+  LOCUÇÃO (1:49)
+    Essa emoção merece chegar em todo mundo. /
+    E quem faz o evento acontecer… precisa ter a informação na mão.
+
+
+============================================================
+CAPÍTULO 4 · PACE                                  1:56 – 2:50
+============================================================
+
+  Transição: o placar do lance congela. O número vira um registro de interface,
+  a câmera "se afasta" (os elementos encolhem) e revela a súmula digital; dela a informação
+  corre para o painel da organização e para o app. Surge "PACE." com o ponto Lime.
+
+  LOCUÇÃO (1:57)
+    Conheça o PACE. //
+    A estrutura digital do seu evento, do planejamento ao último resultado.
+
+  Som: a tensão dos bastidores vira uma trilha ampla e confiante.
+  Cliques e transições caem no tempo da música. O tom grave da marca assenta no "PACE".
+
+  --- PEÇA 1 · ORGANIZAR (2:05) ---
+  Imagem [REAL]: telas reais do painel (Mac): Cronograma - Admin e Chaveamento - Admin,
+  num notebook desenhado em linhas. Um cursor percorre o fluxo: escolhe a modalidade,
+  o chaveamento se monta (Semifinal → Final), a grade do cronograma aparece,
+  o selo "Publicado" acende.
+
+  LOCUÇÃO
+    No painel, a organização monta tudo num lugar só: / atléticas, modalidades, quadras. /
+    O chaveamento ganha forma. O cronograma se organiza. //
+    Revisou? / Publicou.   (leve, satisfeito)
+
+  --- PEÇA 2 · REGISTRAR (2:17) ---
+  Imagem [GRÁFICO no estilo do app]: não há tela real do mesário na pasta, então recrio
+  a súmula digital com os componentes do app (caixas de placar, escudos, tema escuro).
+  O mesário escolhe a partida, toca "+1", o placar vira 71 → 72 e aparece "✓ registrado".
+  Por trás, por um instante, a súmula de papel da abertura se desfaz em pontos.
+
+  LOCUÇÃO
+    Na quadra, o mesário registra o lance na súmula digital. /
+    Um toque… // e o placar já tá no sistema. /
+    Sem folha perdida. Sem placar trocado.
+
+  --- PEÇA 3 · ACOMPANHAR (2:27) ---
+  Imagem [REAL]: telas reais do app iOS num celular desenhado em linhas:
+  Home (● AO VIVO, Búfalos 72 : 70 Imortal) → Cronograma → Filtros ("Minha atlética · Búfalos")
+  → Cronograma filtrado → Notificações ("▲ Mudança de local").
+  Toques e rolagens animados; o ponto Lime marca cada toque.
+
+  LOCUÇÃO
+    E pra torcida, um app só: /
+    a agenda da sua atlética, / o caminho na chave, / o placar ao vivo. //
+    E se mudar a quadra… você fica sabendo antes de chegar lá.
+
+  --- FECHAMENTO (2:39) ---
+  Imagem: as mensagens da abertura voltam, uma a uma, e cada uma encontra sua resposta no produto:
+    "Qual é o horário do jogo?"   →  Cronograma
+    "Mudaram a quadra?"           →  ▲ Mudança de local
+    "Esse placar está certo?"     →  ● AO VIVO 72 : 70
+    "Quem está com a súmula?"     →  ✓ súmula digital registrada
+  Por fim, organizador (painel), mesário (súmula) e torcedor (app) ligados pelo mesmo ponto Lime.
+
+  LOCUÇÃO
+    Organizar. / Registrar. / Acompanhar. //
+    Três peças… um mesmo lance.
+
+  Imagem: a arquibancada de pontos do Capítulo 3 volta acesa (não há foto real de
+  comemoração na pasta). Os pontos se recolhem no wordmark.
+
+  LOCUÇÃO   (firme e calmo)
+    PACE. //
+    A organização fica com a gente. / Vocês só precisam torcer.
+
+  Som: a música encerra junto da assinatura. O canto da torcida fica um instante sobre a marca.
+
+TELA FINAL (2:47 – 2:50)
+  PACE.
+  Seu campeonato no ritmo certo.
+
+
+------------------------------------------------------------
+NOTAS DE PRODUÇÃO
+------------------------------------------------------------
+- Material real usado: depoimentos-organizacao.mp4, 4 fotos de mesários, 2 súmulas,
+  7 telas do protótipo (5 iOS, 2 Mac). Nomes e dados pessoais desfocados.
+- Sem imagens reais de torcida, evento e lances: Capítulos 2 e 3 em motion graphics.
+  Se chegarem vídeos depois, eles entram nos mesmos tempos.
+- Torcida, bateria e apito são sons sintetizados (não há gravação real na pasta).
+- O "+ R$ 30 milhões por edição" entra como estimativa da organização. Se houver fonte
+  publicada (jornal, prefeitura), troco o crédito.
+- As telas do painel (Mac) estão em tema claro e as do app em tema escuro. Mantenho como
+  estão (são as telas reais), dentro de molduras escuras.

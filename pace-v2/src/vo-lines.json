@@ -1,0 +1,594 @@
+{
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "+14%",
+ "note": "text/tts/cues = Portuguese; en/tts_en/cues_en = English. cues = words that drive the visuals; gap = pause before the line (default 0.5 s); rate/pitch apply to both languages. Start times are laid out in src/timeline.js.",
+ "lines": [
+  {
+   "id": "L01",
+   "block": "chat",
+   "text": "Um resultado no papel. Uma mudança no grupo. E a mesma pergunta… de novo.",
+   "tts": "Um resultado no papel. Uma mudança no grupo. E a mesma pergunta... de novo.",
+   "cues": {
+    "papel": "papel",
+    "grupo": "grupo",
+    "pergunta": "pergunta",
+    "deNovo": "novo"
+   },
+   "en": "One result on paper. One change in the group chat. And the same question… again.",
+   "tts_en": "One result on paper. One change in the group chat. And the same question... again.",
+   "cues_en": {
+    "papel": "paper",
+    "grupo": "group",
+    "pergunta": "question",
+    "deNovo": "again"
+   }
+  },
+  {
+   "id": "L02",
+   "block": "photos",
+   "text": "Cada informação precisa achar alguém. Alguém que confira. Que responda. E que avise o resto.",
+   "tts": "Cada informação precisa achar alguém. Alguém que confira. Que responda. E que avise o resto.",
+   "cues": {
+    "achar": "achar",
+    "confira": "confira",
+    "responda": "responda",
+    "avise": "avise"
+   },
+   "en": "Every piece of information has to find someone. Someone to check it. To answer it. And to tell everyone else.",
+   "tts_en": "Every piece of information has to find someone. Someone to check it. To answer it. And to tell everyone else.",
+   "cues_en": {
+    "achar": "find",
+    "confira": "check",
+    "responda": "answer",
+    "avise": "tell"
+   }
+  },
+  {
+   "id": "L03",
+   "block": "rush",
+   "text": "Enquanto isso, quem organiza acumula abas abertas. Quem joga espera uma confirmação. E quem torce… atualiza o grupo pela décima vez.",
+   "tts": "Enquanto isso, quem organiza acumula abas abertas. Quem joga espera uma confirmação. E quem torce... atualiza o grupo pela décima vez.",
+   "cues": {
+    "organiza": "organiza",
+    "joga": "joga",
+    "torce": "torce",
+    "decima": "décima"
+   },
+   "en": "Meanwhile, the organizers pile up open tabs. The athletes wait for a confirmation. And the fans… refresh the group chat for the tenth time.",
+   "tts_en": "Meanwhile, the organizers pile up open tabs. The athletes wait for a confirmation. And the fans... refresh the group chat for the tenth time.",
+   "cues_en": {
+    "organiza": "organizers",
+    "joga": "athletes",
+    "torce": "fans",
+    "decima": "tenth"
+   }
+  },
+  {
+   "id": "L04",
+   "block": "black",
+   "text": "Tudo isso… pra fazer acontecer um evento desse tamanho.",
+   "tts": "Tudo isso... pra fazer acontecer um evento desse tamanho.",
+   "cues": {
+    "tamanho": "tamanho"
+   },
+   "rate": "-4%",
+   "en": "All of this… to pull off an event this big.",
+   "tts_en": "All of this... to pull off an event this big.",
+   "cues_en": {
+    "tamanho": "big"
+   }
+  },
+  {
+   "id": "L05",
+   "block": "cia",
+   "text": "Este é o CIA, a Copa Inter Atléticas.",
+   "tts": "Este é o CIA, a Copa Inter Atléticas.",
+   "cues": {
+    "cia": "CIA",
+    "copa": "Copa"
+   },
+   "en": "This is CIA, the Copa Inter Atléticas.",
+   "tts_en": "This is C.I.A., the Copa Inter Atléticas.",
+   "cues_en": {
+    "cia": "CIA",
+    "copa": "Copa"
+   }
+  },
+  {
+   "id": "L06",
+   "block": "cia",
+   "text": "Todo junho, Uberaba vira a capital do esporte universitário: jogo de dia, festa de noite, e uma operação que começa meses antes do primeiro apito.",
+   "tts": "Todo junho, Uberaba vira a capital do esporte universitário: jogo de dia, festa de noite, e uma operação que começa meses antes do primeiro apito.",
+   "cues": {
+    "uberaba": "Uberaba",
+    "capital": "capital",
+    "jogo": "jogo",
+    "festa": "festa",
+    "operacao": "operação",
+    "meses": "meses",
+    "apito": "apito"
+   },
+   "en": "Every June, Uberaba becomes the capital of college sports: games by day, parties by night, and an operation that starts months before the first whistle.",
+   "tts_en": "Every June, Uberaba becomes the capital of college sports: games by day, parties by night, and an operation that starts months before the first whistle.",
+   "cues_en": {
+    "uberaba": "Uberaba",
+    "capital": "capital",
+    "jogo": "games",
+    "festa": "parties",
+    "operacao": "operation",
+    "meses": "months",
+    "apito": "whistle"
+   }
+  },
+  {
+   "id": "L07",
+   "block": "chain",
+   "text": "Inscrições. Equipes. Modalidades. Quadras. Arbitragem. Horários. Resultados.",
+   "tts": "Inscrições. Equipes. Modalidades. Quadras. Arbitragem. Horários. Resultados.",
+   "cues": {
+    "w0": "Inscrições",
+    "w1": "Equipes",
+    "w2": "Modalidades",
+    "w3": "Quadras",
+    "w4": "Arbitragem",
+    "w5": "Horários",
+    "w6": "Resultados"
+   },
+   "rate": "-6%",
+   "en": "Registrations. Teams. Sports. Courts. Referees. Schedules. Results.",
+   "tts_en": "Registrations. Teams. Sports. Courts. Referees. Schedules. Results.",
+   "cues_en": {
+    "w0": "Registrations",
+    "w1": "Teams",
+    "w2": "Sports",
+    "w3": "Courts",
+    "w4": "Referees",
+    "w5": "Schedules",
+    "w6": "Results"
+   }
+  },
+  {
+   "id": "L08",
+   "block": "chain",
+   "text": "Cada etapa depende da anterior. E qualquer mudança… derruba o dominó inteiro.",
+   "tts": "Cada etapa depende da anterior. E qualquer mudança... derruba o dominó inteiro.",
+   "cues": {
+    "etapa": "etapa",
+    "mudanca": "mudança",
+    "derruba": "derruba"
+   },
+   "en": "Each step depends on the one before. And any change… knocks the whole line of dominoes down.",
+   "tts_en": "Each step depends on the one before. And any change... knocks the whole line of dominoes down.",
+   "cues_en": {
+    "etapa": "step",
+    "mudanca": "change",
+    "derruba": "knocks"
+   }
+  },
+  {
+   "id": "L09",
+   "block": "numbers",
+   "text": "E o tamanho aparece fora das quadras também: hotel lotado, restaurante cheio, a cidade inteira em movimento.",
+   "tts": "E o tamanho aparece fora das quadras também: hotel lotado, restaurante cheio, a cidade inteira em movimento.",
+   "cues": {
+    "fora": "fora",
+    "hotel": "hotel",
+    "restaurante": "restaurante",
+    "cidade": "cidade"
+   },
+   "en": "And the scale shows up off the courts too: hotels full, restaurants packed, the whole city on the move.",
+   "tts_en": "And the scale shows up off the courts too: hotels full, restaurants packed, the whole city on the move.",
+   "cues_en": {
+    "fora": "off",
+    "hotel": "hotels",
+    "restaurante": "restaurants",
+    "cidade": "city"
+   }
+  },
+  {
+   "id": "L10",
+   "block": "numbers",
+   "text": "Meses de preparo… pra funcionar em poucos dias.",
+   "tts": "Meses de preparo... pra funcionar em poucos dias.",
+   "cues": {
+    "preparo": "preparo",
+    "poucos": "poucos"
+   },
+   "en": "Months of preparation… to run for just a few days.",
+   "tts_en": "Months of preparation... to run for just a few days.",
+   "cues_en": {
+    "preparo": "preparation",
+    "poucos": "few"
+   }
+  },
+  {
+   "id": "L11",
+   "block": "question",
+   "text": "Mas… o que faz tudo isso se mover?",
+   "tts": "Mas... o que faz tudo isso se mover?",
+   "cues": {
+    "mas": "Mas",
+    "mover": "mover"
+   },
+   "rate": "-8%",
+   "pitch": "-2Hz",
+   "en": "But… what makes all of this move?",
+   "tts_en": "But... what makes all of this move?",
+   "cues_en": {
+    "mas": "But",
+    "mover": "move"
+   }
+  },
+  {
+   "id": "L12",
+   "block": "people",
+   "text": "Pra quem tá aqui, a atlética tem rosto. Tem amigo. Tem história.",
+   "tts": "Pra quem tá aqui, a atlética tem rosto. Tem amigo. Tem história.",
+   "cues": {
+    "rosto": "rosto",
+    "amigo": "amigo",
+    "historia": "história"
+   },
+   "rate": "-2%",
+   "en": "For the people here, the athletic has a face. It has friends. It has history.",
+   "tts_en": "For the people here, the athletic has a face. It has friends. It has history.",
+   "cues_en": {
+    "rosto": "face",
+    "amigo": "friends",
+    "historia": "history"
+   }
+  },
+  {
+   "id": "L13",
+   "block": "people",
+   "text": "Tem treino depois da aula. Viagem de ônibus. Expectativa. E uma camisa que ninguém quer deixar de honrar.",
+   "tts": "Tem treino depois da aula. Viagem de ônibus. Expectativa. E uma camisa que ninguém quer deixar de honrar.",
+   "cues": {
+    "treino": "treino",
+    "onibus": "ônibus",
+    "expectativa": "Expectativa",
+    "camisa": "camisa",
+    "honrar": "honrar"
+   },
+   "rate": "-2%",
+   "en": "It's practice after class. A bus ride. Expectation. And a jersey nobody wants to let down.",
+   "tts_en": "It's practice after class. A bus ride. Expectation. And a jersey nobody wants to let down.",
+   "cues_en": {
+    "treino": "practice",
+    "onibus": "bus",
+    "expectativa": "Expectation",
+    "camisa": "jersey",
+    "honrar": "down"
+   }
+  },
+  {
+   "id": "L14",
+   "block": "climb",
+   "text": "É defender as suas cores.",
+   "tts": "É defender as suas cores.",
+   "cues": {
+    "cores": "cores"
+   },
+   "pitch": "+2Hz",
+   "en": "It's defending your colors.",
+   "tts_en": "It's defending your colors.",
+   "cues_en": {
+    "cores": "colors"
+   }
+  },
+  {
+   "id": "L15",
+   "block": "climb",
+   "text": "É perder a voz por alguém que você conhece.",
+   "tts": "É perder a voz por alguém que você conhece.",
+   "cues": {
+    "voz": "voz",
+    "conhece": "conhece"
+   },
+   "pitch": "+5Hz",
+   "en": "It's losing your voice for someone you know.",
+   "tts_en": "It's losing your voice for someone you know.",
+   "cues_en": {
+    "voz": "voice",
+    "conhece": "know"
+   }
+  },
+  {
+   "id": "L16",
+   "block": "climb",
+   "text": "É viver um segundo… que vai ser contado por anos.",
+   "tts": "É viver um segundo... que vai ser contado por anos.",
+   "cues": {
+    "segundo": "segundo",
+    "anos": "anos"
+   },
+   "rate": "-4%",
+   "pitch": "+8Hz",
+   "en": "It's living one second… that will be told for years.",
+   "tts_en": "It's living one second... that will be told for years.",
+   "cues_en": {
+    "segundo": "second",
+    "anos": "years"
+   }
+  },
+  {
+   "id": "L17",
+   "block": "reach",
+   "text": "Essa emoção merece chegar em todo mundo.",
+   "tts": "Essa emoção merece chegar em todo mundo.",
+   "cues": {
+    "emocao": "emoção",
+    "todo": "todo"
+   },
+   "en": "That feeling deserves to reach everyone.",
+   "tts_en": "That feeling deserves to reach everyone.",
+   "cues_en": {
+    "emocao": "feeling",
+    "todo": "everyone"
+   }
+  },
+  {
+   "id": "L18",
+   "block": "reach",
+   "text": "E quem faz o evento acontecer… precisa ter a informação na mão.",
+   "tts": "E quem faz o evento acontecer... precisa ter a informação na mão.",
+   "cues": {
+    "informacao": "informação",
+    "mao": "mão"
+   },
+   "en": "And the people who make the event happen… need the information in their hands.",
+   "tts_en": "And the people who make the event happen... need the information in their hands.",
+   "cues_en": {
+    "informacao": "information",
+    "mao": "hands"
+   }
+  },
+  {
+   "id": "L19",
+   "block": "reveal",
+   "text": "Conheça o PACE.",
+   "tts": "Conheça o Peis.",
+   "cues": {
+    "pace": "Peis"
+   },
+   "rate": "-6%",
+   "en": "Meet PACE.",
+   "tts_en": "Meet Pace.",
+   "cues_en": {
+    "pace": "Pace"
+   }
+  },
+  {
+   "id": "L20",
+   "block": "reveal",
+   "text": "A estrutura digital do seu evento, do planejamento ao último resultado.",
+   "tts": "A estrutura digital do seu evento, do planejamento ao último resultado.",
+   "cues": {
+    "estrutura": "estrutura",
+    "planejamento": "planejamento",
+    "resultado": "resultado"
+   },
+   "gap": 1.0,
+   "en": "The digital backbone of your event, from planning to the final result.",
+   "tts_en": "The digital backbone of your event, from planning to the final result.",
+   "cues_en": {
+    "estrutura": "digital",
+    "planejamento": "planning",
+    "resultado": "result"
+   }
+  },
+  {
+   "id": "L21",
+   "block": "organize",
+   "text": "No painel, a organização monta tudo num lugar só: atléticas, modalidades, quadras.",
+   "tts": "No painel, a organização monta tudo num lugar só: atléticas, modalidades, quadras.",
+   "cues": {
+    "painel": "painel",
+    "atleticas": "atléticas",
+    "modalidades": "modalidades",
+    "quadras": "quadras"
+   },
+   "en": "On the dashboard, the organizers build everything in one place: athletics, sports, courts.",
+   "tts_en": "On the dashboard, the organizers build everything in one place: athletics, sports, courts.",
+   "cues_en": {
+    "painel": "dashboard",
+    "atleticas": "athletics",
+    "modalidades": "sports",
+    "quadras": "courts"
+   }
+  },
+  {
+   "id": "L22",
+   "block": "organize",
+   "text": "O chaveamento ganha forma. O cronograma se organiza.",
+   "tts": "O chaveamento ganha forma. O cronograma se organiza.",
+   "cues": {
+    "chaveamento": "chaveamento",
+    "cronograma": "cronograma"
+   },
+   "en": "The bracket takes shape. The schedule falls into place.",
+   "tts_en": "The bracket takes shape. The schedule falls into place.",
+   "cues_en": {
+    "chaveamento": "bracket",
+    "cronograma": "schedule"
+   }
+  },
+  {
+   "id": "L23",
+   "block": "organize",
+   "text": "Revisou? Publicou.",
+   "tts": "Revisou? Publicou.",
+   "cues": {
+    "revisou": "Revisou",
+    "publicou": "Publicou"
+   },
+   "rate": "-4%",
+   "en": "Reviewed? Published.",
+   "tts_en": "Reviewed? Published.",
+   "cues_en": {
+    "revisou": "Reviewed",
+    "publicou": "Published"
+   }
+  },
+  {
+   "id": "L24",
+   "block": "record",
+   "text": "Na quadra, o mesário registra o lance na súmula digital.",
+   "tts": "Na quadra, o mesário registra o lance na súmula digital.",
+   "cues": {
+    "quadra": "quadra",
+    "registra": "registra",
+    "sumula": "súmula"
+   },
+   "en": "At the court, the scorekeeper logs the play on the digital scoresheet.",
+   "tts_en": "At the court, the scorekeeper logs the play on the digital scoresheet.",
+   "cues_en": {
+    "quadra": "court",
+    "registra": "logs",
+    "sumula": "scoresheet"
+   }
+  },
+  {
+   "id": "L25",
+   "block": "record",
+   "text": "Um toque… e o placar já tá no sistema.",
+   "tts": "Um toque... e o placar já tá no sistema.",
+   "cues": {
+    "toque": "toque",
+    "placar": "placar",
+    "sistema": "sistema"
+   },
+   "en": "One tap… and the score is already in the system.",
+   "tts_en": "One tap... and the score is already in the system.",
+   "cues_en": {
+    "toque": "tap",
+    "placar": "score",
+    "sistema": "system"
+   }
+  },
+  {
+   "id": "L26",
+   "block": "record",
+   "text": "Sem folha perdida. Sem placar trocado.",
+   "tts": "Sem folha perdida. Sem placar trocado.",
+   "cues": {
+    "folha": "folha",
+    "trocado": "trocado"
+   },
+   "en": "No lost sheets. No mixed-up scores.",
+   "tts_en": "No lost sheets. No mixed-up scores.",
+   "cues_en": {
+    "folha": "lost",
+    "trocado": "mixed"
+   }
+  },
+  {
+   "id": "L27",
+   "block": "follow",
+   "text": "E pra torcida, um app só: a agenda da sua atlética, o caminho na chave, o placar ao vivo.",
+   "tts": "E pra torcida, um app só: a agenda da sua atlética, o caminho na chave, o placar ao vivo.",
+   "cues": {
+    "app": "app",
+    "agenda": "agenda",
+    "chave": "chave",
+    "vivo": "vivo"
+   },
+   "en": "And for the fans, one app: your athletic's schedule, the path through the bracket, the live score.",
+   "tts_en": "And for the fans, one app: your athletic's schedule, the path through the bracket, the live score.",
+   "cues_en": {
+    "app": "app",
+    "agenda": "schedule",
+    "chave": "bracket",
+    "vivo": "live"
+   }
+  },
+  {
+   "id": "L28",
+   "block": "follow",
+   "text": "E se mudar a quadra… você fica sabendo antes de chegar lá.",
+   "tts": "E se mudar a quadra... você fica sabendo antes de chegar lá.",
+   "cues": {
+    "mudar": "mudar",
+    "sabendo": "sabendo"
+   },
+   "en": "And if the court changes… you know before you get there.",
+   "tts_en": "And if the court changes... you know before you get there.",
+   "cues_en": {
+    "mudar": "changes",
+    "sabendo": "know"
+   }
+  },
+  {
+   "id": "L29",
+   "block": "answers",
+   "text": "Organizar. Registrar. Acompanhar.",
+   "tts": "Organizar. Registrar. Acompanhar.",
+   "cues": {
+    "organizar": "Organizar",
+    "registrar": "Registrar",
+    "acompanhar": "Acompanhar"
+   },
+   "rate": "-6%",
+   "en": "Organize. Record. Follow.",
+   "tts_en": "Organize. Record. Follow.",
+   "cues_en": {
+    "organizar": "Organize",
+    "registrar": "Record",
+    "acompanhar": "Follow"
+   }
+  },
+  {
+   "id": "L30",
+   "block": "answers",
+   "text": "Três peças… um mesmo lance.",
+   "tts": "Três peças... um mesmo lance.",
+   "cues": {
+    "tres": "Três",
+    "lance": "lance"
+   },
+   "en": "Three pieces… one single play.",
+   "tts_en": "Three pieces... one single play.",
+   "cues_en": {
+    "tres": "Three",
+    "lance": "play"
+   }
+  },
+  {
+   "id": "L31",
+   "block": "sign",
+   "text": "PACE.",
+   "tts": "Peis.",
+   "cues": {
+    "pace2": "Peis"
+   },
+   "rate": "-8%",
+   "en": "PACE.",
+   "tts_en": "Pace.",
+   "cues_en": {
+    "pace2": "Pace"
+   },
+   "note_en": "audio reused from L19 (\"Meet Pace.\") so \"Pace\" is said like the English word"
+  },
+  {
+   "id": "L32",
+   "block": "sign",
+   "text": "A organização fica com a gente. Vocês só precisam torcer.",
+   "tts": "A organização fica com a gente. Vocês só precisam torcer.",
+   "cues": {
+    "gente": "gente",
+    "torcer": "torcer"
+   },
+   "gap": 0.9,
+   "rate": "-4%",
+   "pitch": "-3Hz",
+   "en": "We handle the organization. You just cheer.",
+   "tts_en": "We handle the organization. You just cheer.",
+   "cues_en": {
+    "gente": "organization",
+    "torcer": "cheer"
+   }
+  }
+ ],
+ "voice_en": "en-US-AndrewMultilingualNeural",
+ "rate_en": "+4%"
+}

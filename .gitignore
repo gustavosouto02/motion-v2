@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+.venv/
+# artefatos gerados (centenas de MB; reproduzíveis via build.sh)
+pace-v2/build/
+pace-v2/out/
+pace-v2/audio/

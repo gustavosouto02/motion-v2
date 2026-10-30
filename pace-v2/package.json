@@ -1,0 +1,10 @@
+{
+  "name": "pace-v2",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PACE — Do caos à torcida (filme V2)",
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.13"
+  }
+}
